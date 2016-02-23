@@ -16,3 +16,8 @@
 .cant-see-me {
 	display: none;
 }
+body{
+	background: url("http://i.stack.imgur.com/7YKUD.jpg") no-repeat center;
+	background-size: cover;
+	background-color: darkgreen;
+}
